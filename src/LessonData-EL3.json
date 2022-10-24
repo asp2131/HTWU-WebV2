@@ -1,0 +1,330 @@
+{
+  "title": "Lesson 4 - Reading for Gist and Determining a Lesson: Rain School",
+  "curriculum": "EL",
+  "type": "Lesson",
+  "cover": "images/cover-EL3.jpeg",
+  "standards": [
+    {
+      "name": "3.1",
+      "type": "standard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac mattis mauris, facilisis imperdiet arcu."
+    },
+    {
+      "name": "3.2.A",
+      "type": "standard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac mattis mauris, facilisis imperdiet arcu."
+    }
+  ],
+  "crumbs": [
+    {
+      "name": "EL Educ... 3rd Grade EL",
+      "children": [
+        {
+          "type": "Page",
+          "name": "EL Educ... Kindergarten EL"
+        },
+        {
+          "type": "Page",
+          "name": "EL Educ... 1st Grade EL"
+        },
+        {
+          "type": "Page",
+          "name": "EL Educ... 2nd Grade EL"
+        },
+        {
+          "type": "Page",
+          "name": "EL Educ... 3rd Grade EL"
+        },
+        {
+          "type": "Page",
+          "name": "EL Educ... 4th Grade EL"
+        },
+        {
+          "type": "Page",
+          "name": "EL Educ... 5th Grade EL"
+        }
+      ]
+    },
+    {
+      "name": "Module 1 - Overcoming Learning Challenges Near and Far",
+      "children": [
+        {
+          "type": "Page",
+          "name": "3.1 Introducing Multiplication"
+        },
+        {
+          "type": "Page",
+          "name": "3.2 Introducing Multiplication"
+        },
+        {
+          "type": "Page",
+          "name": "3.3 Introducing Multiplication"
+        },
+        {
+          "type": "Page",
+          "name": "3.4 Introducing Multiplication"
+        },
+        {
+          "type": "Page",
+          "name": "3.5 Introducing Multiplicationn"
+        },
+        {
+          "type": "Page",
+          "name": "3.6 Expressions and Equations"
+        },
+        {
+          "type": "Page",
+          "name": "3.7 Rational Numbers"
+        },
+        {
+          "type": "Page",
+          "name": "3.8 Data Sets and Distributions"
+        },
+        {
+          "type": "Page",
+          "name": "6.9 Putting it All Together"
+        }
+      ]
+    },
+    {
+      "name": "Unit 1 - Reading Literary Texts: Overcoming Learning Challenges – School and Education",
+      "children": [
+        {
+          "type": "Page",
+          "name": "Unit 1 - Build Background Knowledge: Read and Analyze Summer of the Mariposas"
+        },
+        {
+          "type": "Page",
+          "name": "Unit 2 - Reading and Writing to Inform: Overcoming Learning Challenges-Books"
+        },
+        {
+          "type": "Page",
+          "name": "Unit 3 - Writing to Inform: Overcoming Learning Challenges—Reading"
+        }
+      ]
+    },
+    {
+      "name": "Lesson 4 - Reading for Gist and Determining a Lesson: Rain School",
+      "children": [
+        {
+          "type": "Page",
+          "name": "Preparing to teach"
+        },
+        {
+          "type": "Assessment",
+          "name": "6.1 Check Your Readiness Assessment"
+        },
+        {
+          "type": "Assessment",
+          "name": "6.1 Check Your Readiness A... Option B"
+        },
+        {
+          "type": "Lesson",
+          "name": "Lesson 1: Tiling the Plane"
+        },
+        {
+          "type": "Lesson",
+          "name": "Lesson 2: Finding Area by... Rearranging"
+        },
+        {
+          "type": "Lesson",
+          "name": "Lesson 3: Reasoning to Find Area"
+        },
+        {
+          "type": "Lesson",
+          "name": "Lesson 4: Parallelograms"
+        },
+        {
+          "type": "Lesson",
+          "name": "Lesson 5: Bases and Hei... Parallograms"
+        },
+        {
+          "type": "Lesson",
+          "name": "Lesson 6: Area of Parallelograms"
+        },
+        {
+          "type": "Lesson",
+          "name": "Lesson 7: From Parallelogra... Triangles"
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "title": "What are we doing today?",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/1.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p><p>Mauris commodo nunc nec ultrices pharetra. Ut vel purus vitae nunc consectetur consequat nec a urna. Duis placerat, libero ac posuere porta, turpis eros sagittis turpis, sed dapibus sem est commodo sapien. Aliquam hendrerit finibus elit a porttitor. Maecenas at erat nec turpis efficitur volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum euismod malesuada nisl, et consectetur eros malesuada vitae.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 2,
+      "title": "1.1 Warm-up",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/2.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 3,
+      "title": "1.1 Warm-up",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/3.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p><p>Mauris commodo nunc nec ultrices pharetra. Ut vel purus vitae nunc consectetur consequat nec a urna. Duis placerat, libero ac posuere porta, turpis eros sagittis turpis, sed dapibus sem est commodo sapien. Aliquam hendrerit finibus elit a porttitor. Maecenas at erat nec turpis efficitur volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum euismod malesuada nisl, et consectetur eros malesuada vitae.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 4,
+      "title": "1.1 Warm-up Synthesis",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/4.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 5,
+      "title": "1.2 Activity: More Red, Green, or Blue?",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/5.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p><p>Mauris commodo nunc nec ultrices pharetra. Ut vel purus vitae nunc consectetur consequat nec a urna. Duis placerat, libero ac posuere porta, turpis eros sagittis turpis, sed dapibus sem est commodo sapien. Aliquam hendrerit finibus elit a porttitor. Maecenas at erat nec turpis efficitur volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum euismod malesuada nisl, et consectetur eros malesuada vitae.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 6,
+      "title": "1.2 Activity Prep",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/6.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 7,
+      "title": "1.2 Activity: More Red, Green, or Blue?",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/7.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p><p>Mauris commodo nunc nec ultrices pharetra. Ut vel purus vitae nunc consectetur consequat nec a urna. Duis placerat, libero ac posuere porta, turpis eros sagittis turpis, sed dapibus sem est commodo sapien. Aliquam hendrerit finibus elit a porttitor. Maecenas at erat nec turpis efficitur volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum euismod malesuada nisl, et consectetur eros malesuada vitae.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 8,
+      "title": "1.2 Activity Applet: More Red, Green, or Blue?",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/8.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 9,
+      "title": "1.2 Synthesis: More Red, Green, or Blue?",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/9.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p><p>Mauris commodo nunc nec ultrices pharetra. Ut vel purus vitae nunc consectetur consequat nec a urna. Duis placerat, libero ac posuere porta, turpis eros sagittis turpis, sed dapibus sem est commodo sapien. Aliquam hendrerit finibus elit a porttitor. Maecenas at erat nec turpis efficitur volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum euismod malesuada nisl, et consectetur eros malesuada vitae.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 10,
+      "title": "Lesson Synthesis",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/10.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 11,
+      "title": "Lesson Synthesis",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/11.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p><p>Mauris commodo nunc nec ultrices pharetra. Ut vel purus vitae nunc consectetur consequat nec a urna. Duis placerat, libero ac posuere porta, turpis eros sagittis turpis, sed dapibus sem est commodo sapien. Aliquam hendrerit finibus elit a porttitor. Maecenas at erat nec turpis efficitur volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum euismod malesuada nisl, et consectetur eros malesuada vitae.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 12,
+      "title": "1.3 Cool-down",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/12.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 13,
+      "title": "1.3 Cool-down",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/13.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p><p>Mauris commodo nunc nec ultrices pharetra. Ut vel purus vitae nunc consectetur consequat nec a urna. Duis placerat, libero ac posuere porta, turpis eros sagittis turpis, sed dapibus sem est commodo sapien. Aliquam hendrerit finibus elit a porttitor. Maecenas at erat nec turpis efficitur volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum euismod malesuada nisl, et consectetur eros malesuada vitae.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 14,
+      "title": "Learning Targets",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/14.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 15,
+      "title": "Vocabulary",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/15.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p><p>Mauris commodo nunc nec ultrices pharetra. Ut vel purus vitae nunc consectetur consequat nec a urna. Duis placerat, libero ac posuere porta, turpis eros sagittis turpis, sed dapibus sem est commodo sapien. Aliquam hendrerit finibus elit a porttitor. Maecenas at erat nec turpis efficitur volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum euismod malesuada nisl, et consectetur eros malesuada vitae.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    },
+    {
+      "id": 16,
+      "title": "Vocabulary",
+      "progress": 0,
+      "avg": 0,
+      "content": "lessons/EL-3/16.png",
+      "notes": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi scelerisque commodo risus, et ullamcorper enim facilisis placerat. In non leo sit amet velit tristique blandit. Aenean quis hendrerit dui, vel tristique eros. Vivamus nec leo tortor. Etiam sed augue posuere, tincidunt dolor sit amet, pretium turpis. Nulla ut diam leo.</p>",
+      "splitActive": false,
+      "splitStart": null,
+      "splitEnd": null
+    }
+  ]
+}
